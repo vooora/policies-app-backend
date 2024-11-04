@@ -24,7 +24,7 @@ flutter run
 
 This Backend has been written in Flask and has been Deployed on [[Render](https://policies-app-backend.onrender.com/)](https://policies-app-backend-nlvo.onrender.com). The dataset is the sparkle_schemes directory. 
 
-To run the backend application locally:
+To run the only backend locally:
 
 First install the `virtualenv` library from PyPI:
 ```
