@@ -3,6 +3,10 @@ See the demo video for our application here
 [https://drive.google.com/drive/folders/1sX0ja2krj693XlLQvvaxrN1CXvJG13rj](https://drive.google.com/drive/folders/1sX0ja2krj693XlLQvvaxrN1CXvJG13rj)
 or download from here:
 [https://github.com/vooora/policies-app-backend/releases/tag/v1](https://github.com/vooora/policies-app-backend/releases/tag/v1)
+
+#Our tests and results
+See the testing_and_results directory to see our test queries and their corresponding answers upon running the backend. The time taken per query are also listed in the time_taken_per_query.pdf file.
+
 # Policies Sparkle Project Full Application
 First clone the repository and navigate into your directory.
 ```
