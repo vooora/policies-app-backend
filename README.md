@@ -1,7 +1,7 @@
 # Our App
 See the demo video for our application here
 [https://drive.google.com/drive/folders/1sX0ja2krj693XlLQvvaxrN1CXvJG13rj](https://drive.google.com/drive/folders/1sX0ja2krj693XlLQvvaxrN1CXvJG13rj)
-or download from our release page:
+or download from here:
 [https://github.com/vooora/policies-app-backend/releases/tag/v1](https://github.com/vooora/policies-app-backend/releases/tag/v1)
 # Policies Sparkle Project Full Application
 First clone the repository and navigate into your directory.
