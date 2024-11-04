@@ -10,7 +10,7 @@ See the testing_and_results directory to see our test queries and their correspo
 # Policies Sparkle Project Full Application
 First clone the repository and navigate into your directory.
 ```
-git clone https://github.com/your-username/your-flutter-app.git
+git clone https://github.com/vooora/policies-app-backend.git
 cd policies-app-backend
 cd client
 ```
