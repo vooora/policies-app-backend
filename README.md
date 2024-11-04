@@ -28,6 +28,8 @@ flutter run
 
 This Backend has been written in Flask and has been Deployed on [[Render](https://policies-app-backend.onrender.com/)](https://policies-app-backend-nlvo.onrender.com). The dataset is the sparkle_schemes directory. 
 
+The prompts we have used to generate the response from the LLM can be found here: [https://github.com/vooora/policies-app-backend/blob/main/utils.py#L28](https://github.com/vooora/policies-app-backend/blob/main/utils.py#L28)
+
 To run the only backend locally:
 
 First install the `virtualenv` library from PyPI:
