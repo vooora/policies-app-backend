@@ -1,6 +1,27 @@
+# Our App
+See the demo video for our application here:
+[https://drive.google.com/drive/folders/1sX0ja2krj693XlLQvvaxrN1CXvJG13rj](https://drive.google.com/drive/folders/1sX0ja2krj693XlLQvvaxrN1CXvJG13rj)
+
+# Policies Sparkle Project Full Application
+First clone the repository and navigate into your directory.
+```
+git clone https://github.com/your-username/your-flutter-app.git
+cd policies-app-backend
+cd client
+```
+Install dependencies.
+```
+flutter pub get
+```
+Ensure you have a device connected, then run the application.
+```
+flutter run
+```
+
+
 # Policies Sparkle Project Backend
 
-This Backend has been written in Flask and has been Deployed on [Render](https://policies-app-backend.onrender.com/).
+This Backend has been written in Flask and has been Deployed on [[Render](https://policies-app-backend.onrender.com/)](https://policies-app-backend-nlvo.onrender.com). The dataset is the sparkle_schemes directory. 
 
 To run the backend application locally:
 
