@@ -26,7 +26,7 @@ flutter run
 
 # Policies Sparkle Project Backend
 
-This Backend has been written in Flask and has been Deployed on [[Render](https://policies-app-backend.onrender.com/)](https://policies-app-backend-nlvo.onrender.com). The dataset is the sparkle_schemes directory. 
+This Backend has been written in Flask and has been Deployed on [[Render](https://policies-app-backend.onrender.com/)](https://policies-app-backend-nlvo.onrender.com). The dataset is the sparkle_schemes directory here [https://github.com/vooora/policies-app-backend/tree/main/sparkle_schemes](https://github.com/vooora/policies-app-backend/tree/main/sparkle_schemes)
 
 The prompts we have used to generate the response from the LLM can be found here: [https://github.com/vooora/policies-app-backend/blob/main/utils.py#L28](https://github.com/vooora/policies-app-backend/blob/main/utils.py#L28)
 
