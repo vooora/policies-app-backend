@@ -204,4 +204,4 @@ def formatFlowchartType(response: str):
     return {"flowchart": flowchart}
 
 
-model_name= "gpt-4o"
+model_name= "gpt-4o-mini"
