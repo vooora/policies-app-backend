@@ -14,8 +14,7 @@ import re
 from dotenv import load_dotenv
 
 app = Flask(__name__)
-model = "gpt-4o"
-
+model = "gpt-4o-mini"
 load_dotenv()
 key = os.getenv("OPENAI_API_KEY")
 
